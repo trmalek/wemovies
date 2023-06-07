@@ -1,6 +1,7 @@
 controllers:
     resource: ../../src/Adapters/Controller/
     type: annotation
+    prefix: movies
 
 kernel:
     resource: ../../src/Kernel.php
