@@ -28,13 +28,21 @@ vendor/bin/phpunit
 * Ajouter la librairie Deptrac pour controller la non violation de l'architecture hexagonale et le sens de la règle de dépendance
 * Avoir un figma pour la partie front et connecter les "composants" front aux actions back (pas eu le temps d'avancer sur la partie front)
 ### Exemple de résultat :
-* Quelques images sur les retours des routes en json avant l'implémentation de la partie front : 
+* Quelques images sur les retours des routes en json avant l'implémentation de la partie front :  
+
 
   1. **La liste des genres :**
+ 
 ![](screenshot/genres_json.png)
+
   2. **La liste des films :**
+ 
 ![](screenshot/movies_json.png)
+
   3. **La liste des films correspondant à une recherche par titre :**
+
 ![](screenshot/search_json.png)
+
   4. **Les détails d'un film selectionné :**
+
 ![](screenshot/movie_detail_json.png)
